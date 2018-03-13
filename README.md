@@ -8,6 +8,10 @@
 Comando utilizado para iniciar um projeto git
 > `git init`
 
+## git clone < LINK>
+Comando para baixar o repositório do git
+> `git clone git@github.com:bruno-alencar/talk-git-init.git`
+
 ## git remote add < NOME > < LINK >
 Quando estamos referenciando uma origem de código de um projecto já existente na máquina
 > `git remote add origin git@github.com:bruno-alencar/talk-git-init.git`
