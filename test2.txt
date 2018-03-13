@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 fdasfasdfasd
 
 Escrevendo coisas na master para ver os conflitos acontecerem
+=======
+xablaufdasfasdfasd
+>>>>>>> 09e292503b48a2c2a3c8b69f2703028186e23567
