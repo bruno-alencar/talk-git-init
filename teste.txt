@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fusydfgsuyfgadiufhsiduufhs
+=======
+sfdafaijdsfjadsifjadfjjiasdfjioaosdfioaoadsfadsfji
+>>>>>>> d38b606dfe5669ad9bbaffb5ac3b95618c3e4744
