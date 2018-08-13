@@ -16,7 +16,7 @@ you could use to remove file from gitignore (try it)
 
 Add some file on last commit 
 
-``git commit --amend --no-edit``
+``git commit --amend --no-edit <file>``
 
 
 Edit date time on last commit 
@@ -27,3 +27,4 @@ Edit date time on last commit
 Edit message on last commit 
 
 ``git commit --amend -m "new message"``
+
