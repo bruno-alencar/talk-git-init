@@ -4,12 +4,26 @@
 
 ### How to remove added file
 
+---
 ``git rm --cached file.txt ``
 
 you could use to remove file from gitignore (try it)
 
+---
 
 ### Starting to edit with --amend (the secret)
 `` git commit --amend``
 
-_-- options_
+Add some file on last commit 
+
+``git commit --amend --no-edit``
+
+
+Edit date time on last commit 
+
+``git commit --amend --date ""fasdfasdfasd"``
+
+
+Edit message on last commit 
+
+``git commit --amend -m "new message"``
