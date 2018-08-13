@@ -21,10 +21,28 @@ Add some file on last commit
 
 Edit date time on last commit 
 
-``git commit --amend --date ""fasdfasdfasd"``
+``git commit --amend --date "sadfasfdsda"``
 
 
 Edit message on last commit 
 
 ``git commit --amend -m "new message"``
 
+#### Other options
+
+![Other options](gitammend.png)
+
+
+## Revert commits
+### How to remove your commit but keeping hisorical context
+
+``git revert <commitId>``
+
+## Reset commits
+## How to remove your commit without historical files
+
+``git reset --soft <commitId>``
+
+``git reset --hard <commitId>``
+
+``git reset --soft HEAD^1``
