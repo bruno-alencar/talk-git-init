@@ -32,14 +32,47 @@ Edit message on last commit
 
 ![Other options](gitammend.png)
 
+---
 
 ## Git stash
+When you need change the branch, but you don`t wanna commit
+``git stash``
 
+For list all stashed files
+
+``git stash list``
+
+If you wanna apply stashed items
+
+``git stash apply`` / ``git stash pop``
+
+or
+
+In a specific stashed
+
+``git stash apply stash@{2}``
+
+Create a branch using a stashed step
+
+``git stash branch <name>``
+
+
+Remove all stashed WIP
+
+``git stash clear``
+
+Remove specific stashed
+
+``git stash drop stash@{2}``
+
+---
 
 ## Revert commits
 ### How to remove your commit but keeping hisorical context
 
 ``git revert <commitId>``
+
+---
 
 ## Reset commits
 ## How to remove your commit without historical files
