@@ -33,6 +33,9 @@ Edit message on last commit
 ![Other options](gitammend.png)
 
 
+## Git stash
+
+
 ## Revert commits
 ### How to remove your commit but keeping hisorical context
 
