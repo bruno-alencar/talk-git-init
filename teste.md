@@ -36,6 +36,7 @@ Edit message on last commit
 
 ## Git stash
 When you need change the branch, but you don`t wanna commit
+
 ``git stash``
 
 For list all stashed files
