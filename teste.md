@@ -69,17 +69,24 @@ Remove specific stashed
 ---
 
 ## Revert commits
-### How to remove your commit but keeping hisorical context
+How to come back your commit but keeping hisorical context
 
 ``git revert <commitId>``
+
+Revert using quantity of commits
+``git revert HEAD~3``
+
+_This will create another commit with a revert message_
 
 ---
 
 ## Reset commits
-## How to remove your commit without historical files
 
+How to remove your commits but keeping the files
 ``git reset --soft <commitId>``
 
+How to remove your commit without historical files
 ``git reset --hard <commitId>``
 
+Reset using quantity of commits
 ``git reset --soft HEAD^1``
