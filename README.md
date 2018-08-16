@@ -1,7 +1,7 @@
-# Test to send workshop for github
+# Git hub part 2
 
 ## Git ammend
-
+<!-- 
 ### How to remove added file
 
 ---
@@ -9,7 +9,7 @@
 
 you could use to remove file from gitignore (try it)
 
----
+--- -->
 
 ### Starting to edit with --amend (the secret)
 `` git commit --amend``
